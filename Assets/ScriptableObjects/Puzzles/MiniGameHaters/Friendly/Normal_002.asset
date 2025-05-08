@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760fda276683a48aa7eb98a452d442, type: 3}
+  m_Name: Normal_002
+  m_EditorClassIdentifier: 
+  nameObject: 
+  nickName: '@joaoziihh'
+  textComents: "N\xE3o sei porque escolheram essa atriz, ela n\xE3o tem nada a ver
+    com o personagem, escolha horr\xEDvel\U0001F624"
+  imageAccount: {fileID: -1980613390, guid: 626428de99cd1314eb35d9224d393e9f, type: 3}
+  isHater: 0

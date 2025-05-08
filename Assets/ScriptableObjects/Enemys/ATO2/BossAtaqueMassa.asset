@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a298d11d60b654a96819fa6ba80193, type: 3}
+  m_Name: BossAtaqueMassa
+  m_EditorClassIdentifier: 
+  AttackScripts:
+  - {fileID: 11400000, guid: 6b300f8204156b14b81ff0d7f0f40b44, type: 2}
+  - {fileID: 11400000, guid: 5b5cee2851b7e584992113c10ed334a4, type: 2}
+  superEffective:
+  - {fileID: 11400000, guid: ab231bfee6bfd8c488d7717d698b8390, type: 2}
+  noEffective:
+  - {fileID: 11400000, guid: 69bfc220fceb00d40990fdd2aa0451a3, type: 2}
+  - {fileID: 11400000, guid: 8dfa63ec5c60d2c41aa5dbc60b00df1f, type: 2}
+  - {fileID: 11400000, guid: b244de6de8917bb41b7f3d9fdce692ba, type: 2}
+  - {fileID: 11400000, guid: bcda3e4064821314790405de8258170b, type: 2}
+  invunerable:
+  - {fileID: 11400000, guid: 52e159a63c3c293478e9411ac411083a, type: 2}
+  - {fileID: 11400000, guid: b6d37a9a0a871f64db570383613e7a12, type: 2}
+  spriteBattle: {fileID: -1547326318, guid: f0770c8fe07b4734693a672ac5f811fa, type: 3}
+  actionBlockEnemy: {fileID: 11400000, guid: 9a025b3f38885b44b912eee95d1a1a93, type: 2}
+  animationBattle: {fileID: 7400000, guid: e6568bfb8a3ede548a92b3476d182521, type: 2}
+  haveDialogueNext: 1
+  nextDialogue: {fileID: 11400000, guid: c2caddae74d41c24dbd782734cd9ab93, type: 2}
+  nextScene: WorldATO2 7
+  dialogueDerrota: {fileID: 11400000, guid: f68a7a6bb96c58e4fa3a7c58651e8095, type: 2}
+  sceneDerrota: ComunidadePAQ

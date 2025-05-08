@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: D3 - MiaCobrandoLele
+  m_EditorClassIdentifier: 
+  text:
+  - Olha, fiz uma skin nova. Gostou?
+  - "Voc\xEA t\xE1 igual a mim\u2026"
+  - "ISSO!!! Agora somos irm\xE3s g\xEAmeas para sempre :3"
+  - "Precisamos conversar mia\u2026"
+  - Sobre o que vc quer falar bestie:3
+  - "Acho que voc\xEA est\xE1 passando um pouco dos limites e eu n\xE3o estou gostando\u2026"
+  - "Do que voc\xEA t\xE1 falando, eu estou apenas fazendo coisas de amiga"
+  - "Voc\xEA n\xE3o gostou da minha surpresa??? :c"
+  - "Olha mia, voc\xEA tem agido de forma estranha, me sinto espionada por voc\xEA.
+    Al\xE9m de que voc\xEA mudou sua skin que era super legal para ficar igual a
+    mim\u2026"
+  - "Para com isso por favor, est\xE1 me deixando nervoso"
+  - "POR QUE VC TA FALANDO ISSO??? EU ESTIVE AQUI S\xD3 PARA TE APOIAR E TE AMAR"
+  - "\xC9 sobre isso, voc\xEA n\xE3o precisa me apoiar o tempo inteiro, voc\xEA tem
+    suas pr\xF3prias coisas para fazer tamb\xE9m, talvez voc\xEA devesse dar aten\xE7\xE3o
+    \xE0 elas"
+  - "Mas eu gosto de voc\xEA Lele, voc\xEA \xE9 minha raz\xE3o de estar aqui. Eu
+    preciso de voc\xEA, por isso estou te ajudando. Voc\xEA n\xE3o pode me tratar
+    assim >:<"
+  - "Mia, eu tamb\xE9m gosto de voc\xEA, mas voc\xEA tem se tornado vazia e controladora.
+    Se voc\xEA continuar com isso, eu terei que me afastar de voc\xEA\u2026"
+  - "Vazia??? e controladora?!? Voc\xEA n\xE3o sabe o que est\xE1 falando Lele, 
+    eu te conhe\xE7o, sei que n\xE3o falaria coisas assim para me magoar"
+  - "N\xE3o quero te magoar, quero que voc\xEA veja suas pr\xF3prias atitudes e consiga
+    melhorar elas. Nao posso continuar sua amiga se voc\xEA me deixa desconfort\xE1vel"
+  - "Voc\xEA n\xE3o pode me tratar assim\u2026"
+  - "Vamos conversar quando voc\xEA conseguir pensar com mais calma, ok?"
+  thisIs:
+  - Player
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  imagePlayer:
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  - {fileID: 1360489175, guid: a7b7f8a008697554f863749977ca121e, type: 3}
+  textColor:
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  haveCutscene: 1
+  cutScene:
+  - {fileID: 11400000, guid: 418f8335809966b468e1fe239903d5f3, type: 2}
+  numberCutScene: 11000000
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

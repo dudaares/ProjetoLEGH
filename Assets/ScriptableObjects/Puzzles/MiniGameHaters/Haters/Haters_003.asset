@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760fda276683a48aa7eb98a452d442, type: 3}
+  m_Name: Haters_003
+  m_EditorClassIdentifier: 
+  nameObject: 
+  nickName: '@emotional_nerdd'
+  textComents: "Hoje em dia qualquer adolescente que t\xE1 triste j\xE1 diz que tem
+    depress\xE3o. Arruma um trabalho ou uma lou\xE7a pra lavar pra ver se n\xE3o
+    passa."
+  imageAccount: {fileID: 21300000, guid: 370b73ff54c3f49448a371f955ab8703, type: 3}
+  isHater: 1

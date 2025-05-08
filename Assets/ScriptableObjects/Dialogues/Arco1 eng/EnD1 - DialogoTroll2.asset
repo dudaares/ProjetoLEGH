@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: EnD1 - DialogoTroll2
+  m_EditorClassIdentifier: 
+  text:
+  - "Well, well, if it ain\u2019t you again. Ain\u2019t tired of losin\u2019 to the
+    best guy in town? HAHAHAH"
+  - "But you were the one who ran away\u2026"
+  - "SHUT UP! Why don\u2019t you go take care of the house and your husband?! If
+    you can even get one hahaha"
+  - But did you even ask my gender or sexuality?
+  - Oh here we go again with this snowflake BS
+  - "Go do the dishes, or wait\u2014should I say dx thx dishx? LOL"
+  - Never heard of neutral gender? You just look dumber acting like that.
+  - "Don\u2019t care, \u201Cwomen\u201D belong in the kitchen, go on now hahahaha"
+  thisIs:
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - NPC
+  imagePlayer:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: 21300000, guid: 4d043d9df7ab7ef409a97b8d26e43172, type: 3}
+  - {fileID: 21300000, guid: 4d043d9df7ab7ef409a97b8d26e43172, type: 3}
+  - {fileID: -1170812644, guid: 9fcb669c63740414bb8cf6ea98719ac5, type: 3}
+  - {fileID: 21300000, guid: 4d043d9df7ab7ef409a97b8d26e43172, type: 3}
+  - {fileID: 21300000, guid: 4d043d9df7ab7ef409a97b8d26e43172, type: 3}
+  - {fileID: 21300000, guid: 4d043d9df7ab7ef409a97b8d26e43172, type: 3}
+  - {fileID: -1170812644, guid: 9fcb669c63740414bb8cf6ea98719ac5, type: 3}
+  - {fileID: -1170812644, guid: 9fcb669c63740414bb8cf6ea98719ac5, type: 3}
+  textColor:
+  - {r: 0.49019608, g: 0.003921569, b: 0, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.49019608, g: 0.003921569, b: 0, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.49019608, g: 0.003921569, b: 0, a: 1}
+  - {r: 0.49019608, g: 0.003921569, b: 0, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.49019608, g: 0.003921569, b: 0, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: Battle
+  isBattle: 1
+  enemy: {fileID: 11400000, guid: d74b5bbfb19042648924d23d2b781b5e, type: 2}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

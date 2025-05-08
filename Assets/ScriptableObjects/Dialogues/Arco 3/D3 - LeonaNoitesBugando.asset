@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: D3 - LeonaNoitesBugando
+  m_EditorClassIdentifier: 
+  text:
+  - "Consegui denunciar os haters. Eles est\xE3o completamente alienados\u2026"
+  - "Obg Lele, se n\xE3o fosse por voc\xEA eu ainda estaria sendo massacrada"
+  - "Eles estavam bem rancorosos, espero que ser denunciado ajude eles a repensarem
+    as atitudes\u2026"
+  - Mas tudo pode voltar a acontecer a qualquer momento, a melhor forma seria explicar
+    tudo e tentar ser mais honesta
+  - "N\xE3o sei se me escutaram bem\u2026 Dentro da internet, vence quem \xE9 mais
+    forte e consegue manipular melhor as pessoas"
+  - "Voc\xEA n\xE3o precisa manipular ningu\xE9m para ser influencer, lidar com pessoas
+    n\xE3o \xE9 apenas induzir elas a fazer o que voc\xEA quer"
+  - Como assim?
+  - "Olha, seu povo era muito obcecado por tudo que voc\xEA dizia, mas ao mesmo tempo
+    era como um gatilho que poderia afetar as atitudes deles\u2026"
+  - "Nem sempre ter muitas pessoas ao redor \xE9 o melhor. "
+  - "Comecei a pensar que devemos questinar as coisas e n\xE3o acreditar e reproduzir
+    todos os absurdos que escutamos, para sentir parte de um grupo. Isso pode ser
+    muito violento."
+  - "Eu tambem nao fui uma boa pessoa. Usei meu poder para magoar os outros e chantage\xE1-los.
+    N\xE3o me arrependo de ter chegado aonde cheguei, mas me arrependo de n\xE3o
+    ter ajudado meus s\xFAditos a terem uma opini\xE3o pr\xF3pria"
+  - "Se tu entende que o caminho que usou para chegar no topo, n\xE3o foi o certo,
+    j\xE1 mostra que voc\xEA mudou. \xC9 isso que importa"
+  - "Eu quero mudar as coisas, n\xE3o quero manipular mais ningu\xE9m"
+  - "Enfim\u2026 Vamos para a entrada da outra cidade que voc\xEA precisava ir?"
+  - Sim,pfv
+  - "Ent\xE3o, para sair da cidade n\xF3s-"
+  thisIs:
+  - Player
+  - NPC
+  - Player
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - Player
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - NPC
+  imagePlayer:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  - {fileID: 1173766551, guid: 045657079de8b73419679c294c4c8ba7, type: 3}
+  textColor:
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.8509804, g: 0.74509805, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.8509804, g: 0.74509805, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.8509804, g: 0.74509805, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.8509804, g: 0.74509805, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.8509804, g: 0.74509805, b: 1, a: 1}
+  - {r: 0.8509804, g: 0.74509805, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.8509804, g: 0.74509805, b: 1, a: 1}
+  haveCutscene: 1
+  cutScene:
+  - {fileID: 11400000, guid: 24ced82942f795e47812c83e1df4dccb, type: 2}
+  numberCutScene: 0f000000
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

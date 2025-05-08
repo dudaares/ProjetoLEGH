@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760fda276683a48aa7eb98a452d442, type: 3}
+  m_Name: Normal_017
+  m_EditorClassIdentifier: 
+  nameObject: 
+  nickName: '@juliohsilv'
+  textComents: "Tem uma mo\xE7a que come\xE7ou hoje na empresa que eu trabalho, ela
+    \xE9 muito linda e muito inteligente, j\xE1 entrou batendo as metas no primeiro
+    m\xEAs! Pena que ela parece ser muita areia pro meu caminh\xE3ozinho..."
+  imageAccount: {fileID: 0}
+  isHater: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760fda276683a48aa7eb98a452d442, type: 3}
+  m_Name: Normal_013
+  m_EditorClassIdentifier: 
+  nameObject: 
+  nickName: '@CLTGamer'
+  textComents: "Fui dar um presente do nada pra minha namorada pra ver a rea\xE7\xE3o
+    dela, dei um chocolate caro importado, pela cara de surpresa que ela fez, acho
+    que gostou\U0001F970"
+  imageAccount: {fileID: 1602012337, guid: db4831e9f7d096543932a9843eef104e, type: 3}
+  isHater: 0

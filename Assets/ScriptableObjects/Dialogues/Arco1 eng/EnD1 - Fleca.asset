@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: EnD1 - Fleca
+  m_EditorClassIdentifier: 
+  text:
+  - Thanks for the rose, thanks for the rose, thanks for the rose.
+  - Whats?
+  - Corn (chomp chomp), Corn (chomp chomp), Corn (chomp chomp).
+  - Guys, what is this?
+  - "Ah, I don't know either, but if we give him an item that\u2019s worth money,
+    he says something funny... it's been there for days LMAOOOO."
+  - I'm just here to see if at some point he breaks character LMAOOOO.
+  - Corasssionnnn, corasssionnnnn.
+  thisIs:
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - Player
+  - Player
+  - Player
+  imagePlayer:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: -1267725969, guid: e668ec7fe98b861448a80979f472025a, type: 3}
+  - {fileID: 2133378887, guid: e668ec7fe98b861448a80979f472025a, type: 3}
+  - {fileID: -446056819, guid: 3822f1ddb6a0c094d8ac8be0d72f396e, type: 3}
+  imageNPC:
+  - {fileID: -446056819, guid: 3822f1ddb6a0c094d8ac8be0d72f396e, type: 3}
+  - {fileID: -446056819, guid: 3822f1ddb6a0c094d8ac8be0d72f396e, type: 3}
+  - {fileID: -446056819, guid: 3822f1ddb6a0c094d8ac8be0d72f396e, type: 3}
+  - {fileID: -446056819, guid: 3822f1ddb6a0c094d8ac8be0d72f396e, type: 3}
+  - {fileID: -446056819, guid: 3822f1ddb6a0c094d8ac8be0d72f396e, type: 3}
+  - {fileID: -446056819, guid: 3822f1ddb6a0c094d8ac8be0d72f396e, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  textColor:
+  - {r: 0.94509804, g: 1, b: 0.25490198, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.94509804, g: 1, b: 0.25490198, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.94509804, g: 1, b: 0.25490198, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

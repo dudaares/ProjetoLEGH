@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: DP2 - PercaCombate3
+  m_EditorClassIdentifier: 
+  text:
+  - "Mais uma vez no ch\xE3o, burra burra burra"
+  - "Por que voc\xEA acha isso queride?"
+  - "N\xE3o consigo vencer eles"
+  - "Por que voc\xEA quer vencer eles?"
+  - "Eles s\xE3o maus, e eu tenho que parar isso pra ninguem sofrer mais, s\xF3 eu
+    posso"
+  - "A Rainha Azul acredita em mim, s\xF3 eu que consigo"
+  - "Olha Lele, voc\xEA \xE9 realmente forte e tem bons argumentos"
+  - Mais ainda sinto inocencia na sua vida, sobre essa Rainha lidamos depois
+  - "Contra o rei, ele n\xE3o tem for\xE7a sozinho"
+  - Tente se prepara ou derrotar ele antes que seu Agrupamento chegue
+  thisIs:
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - Player
+  - Player
+  - Player
+  imagePlayer:
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  imageNPC:
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  textColor:
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 1
+  nextScene: WorldATO2 6
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

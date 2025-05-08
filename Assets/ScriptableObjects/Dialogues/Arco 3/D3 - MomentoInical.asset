@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: D3 - MomentoInical
+  m_EditorClassIdentifier: 
+  text:
+  - "AQUELA MEQUETREFE N\xC3O MERECE UM TER\xC7O DA MINHA EMPATIA. TEMOS QUE JOGAR
+    NA FOGUEIRA!!!!"
+  - "\xC9 VERDADE!!!! N\xC3O AGUENTO MAIS ELES MENTIREM PARA GENTE. "
+  - "AGORA S\xD3 ESCUTO O QUE QUERO OUVIR!!! QUEM ELES PENSAM QUE S\xC3O PARA DIZER
+    QUE A TERRA \xC9 REDONDA???"
+  - "Mas... A terra \xE9 redonda\u2026"
+  - "MAIS UM CONSPIRADOR!!! A TERRA \xC9 UM PRATO!!!"
+  - "\xC9 ISSO MESMO, A TERRA \xC9 UM PRATO. SA\xCD PRA L\xC1 MENTIROSO, S\xD3 FALA
+    MENTIRAS!!!"
+  - "Gente, voc\xEAs deveriam relaxar, nosso inimigo aqui n\xE3o \xE9 o que acredita
+    na terra redonda, mas sim, LEONA NOITES. Ela nos enganou e temos que nos vingar!!!"
+  - "Gente eu sei uma \xF3tima forma de humilhar a Leona Noites, hehehehehe"
+  - Pois diga
+  - "Muito tempo atr\xE1s apareceu na internet uma foto de Leona Noites s\xF3 de
+    calcinha e suti\xE3"
+  - "E todos foram \xE0 loucura quando viram a verruga horrenda na barriga dela hahahahah"
+  - "Vamos trazer isso \xE0 tona e atacar ela!!!"
+  - 'ISSO!!! Lembrei, daquela foto horrorosa, e que verruga feia ein. '
+  - "Que foto \xE9 essa, manda pra mim no direct."
+  - '*enviar a foto* !COLOCAR EMOJI!'
+  - MEU DEUS QUE HORROR!!! EU PRECISO COMPARTILHAR ISSO COM OS GRUPOS!!!!
+  - "Leona Noites ser\xE1 humilhada!!!!"
+  - "O que que aconteceu Lel\xEA? Pq vc est\xE1 chorando?"
+  - "N\xE3o \xE9 nada, estou bem\u2026"
+  - "Por favor, vc pode confiar em mim\u2026 O que aconteceu?"
+  - "Tudo mudou por minha culpa e agora v\xE3o vazar fotos da Leona Noites"
+  - "Vazar fotos dela? Por que isso \xE9 sua culpa?"
+  - "Ela fez besteira e eu acabei fazendo muita gente ficar com \xF3dio dela, agora
+    eles querem vazar uma foto dela\u2026 Assim como fizeram comigo TT"
+  - O QUE??? FIZERAM ISSO COM VC? Quem fez isso, vou acabar com essa pessoa agora!!!
+  - "N\xE3o, por favor, eu tenho medo!!!"
+  - "Medo? Mas cometeram um crime, voc\xEA deveria estar revoltada com isso!!! "
+  - "Vamos atr\xE1s dele e denunciar esse crime!!"
+  - "Eu sinto raiva quando penso nisso\u2026 Mas n\xE3o tenho coragem pra bater de
+    frente com aquela pessoa ainda\u2026"
+  - "Mas voc\xEA tem que se vingar!!! E eu estou pronta para te ajudar a denunciar.
+    Voc\xEA precisa mostrar sua verdadeira for\xE7a Lel\xEA, voc\xEA \xE9 muito forte!"
+  - "Talvez eu consiga se voc\xEA for comigo\u2026"
+  - 'Vou estar do seu lado sempre :) '
+  - "Ele usava bastante discord* para conversar com os amigos, talvez a consiga encontrar
+    ele l\xE1"
+  - "Ent\xE3o vamos l\xE1 agora!!!"
+  thisIs:
+  - Player
+  - Player
+  - Player
+  - Player
+  - Player
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - Player
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  imagePlayer:
+  - {fileID: -1840268291, guid: 92b6a4a728c44c148a0d2f3a46be3846, type: 3}
+  - {fileID: -1288717233, guid: ee491f71aa01abb448153f6626a4709f, type: 3}
+  - {fileID: 483690194, guid: 0b8ebbba7dcbeae4286ea2cf9552f062, type: 3}
+  - {fileID: -1288717233, guid: ee491f71aa01abb448153f6626a4709f, type: 3}
+  - {fileID: 483690194, guid: 0b8ebbba7dcbeae4286ea2cf9552f062, type: 3}
+  - {fileID: -1823603206, guid: 3aa3dce41ba8892468a9127c4f070d25, type: 3}
+  - {fileID: 1497058731, guid: 57d23e748238aab498337655235982e5, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: -1288717233, guid: ee491f71aa01abb448153f6626a4709f, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: -1288717233, guid: ee491f71aa01abb448153f6626a4709f, type: 3}
+  - {fileID: -1840268291, guid: 92b6a4a728c44c148a0d2f3a46be3846, type: 3}
+  - {fileID: -1288717233, guid: ee491f71aa01abb448153f6626a4709f, type: 3}
+  - {fileID: 483690194, guid: 0b8ebbba7dcbeae4286ea2cf9552f062, type: 3}
+  - {fileID: -1288717233, guid: ee491f71aa01abb448153f6626a4709f, type: 3}
+  - {fileID: 483690194, guid: 0b8ebbba7dcbeae4286ea2cf9552f062, type: 3}
+  - {fileID: -1823603206, guid: 3aa3dce41ba8892468a9127c4f070d25, type: 3}
+  - {fileID: 1497058731, guid: 57d23e748238aab498337655235982e5, type: 3}
+  - {fileID: 1497058731, guid: 57d23e748238aab498337655235982e5, type: 3}
+  - {fileID: 1497058731, guid: 57d23e748238aab498337655235982e5, type: 3}
+  - {fileID: 1497058731, guid: 57d23e748238aab498337655235982e5, type: 3}
+  - {fileID: 1497058731, guid: 57d23e748238aab498337655235982e5, type: 3}
+  - {fileID: 1497058731, guid: 57d23e748238aab498337655235982e5, type: 3}
+  - {fileID: -1823603206, guid: 3aa3dce41ba8892468a9127c4f070d25, type: 3}
+  - {fileID: -1823603206, guid: 3aa3dce41ba8892468a9127c4f070d25, type: 3}
+  - {fileID: -1823603206, guid: 3aa3dce41ba8892468a9127c4f070d25, type: 3}
+  - {fileID: -315585336, guid: dcd65c5b836cf764f97cdf7e3285d483, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  textColor:
+  - {r: 0.29411766, g: 0.29411766, b: 0.29411766, a: 1}
+  - {r: 0.64705884, g: 0.64705884, b: 0.64705884, a: 1}
+  - {r: 0.18039216, g: 0.1764706, b: 0.1764706, a: 1}
+  - {r: 0.64705884, g: 0.64705884, b: 0.64705884, a: 1}
+  - {r: 0.18039216, g: 0.1764706, b: 0.1764706, a: 1}
+  - {r: 0.7058824, g: 0.7019608, b: 0.7019608, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.7137255, g: 1, b: 0.07450981, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.7137255, g: 1, b: 0.07450981, a: 1}
+  - {r: 0.7137255, g: 1, b: 0.07450981, a: 1}
+  - {r: 0.7137255, g: 1, b: 0.07450981, a: 1}
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 0.7058824, g: 0.7019608, b: 0.7019608, a: 1}
+  - {r: 0.7137255, g: 1, b: 0.07450981, a: 1}
+  - {r: 0.7058824, g: 0.7019608, b: 0.7019608, a: 1}
+  - {r: 0.64705884, g: 0.64705884, b: 0.64705884, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  haveCutscene: 1
+  cutScene:
+  - {fileID: 11400000, guid: 1b4faf2797f5d894193352d2e27a6afc, type: 2}
+  - {fileID: 11400000, guid: 3144fceccd785804db495f00443f3725, type: 2}
+  numberCutScene: 0600000010000000
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 1
+  nextScene: WorldATO3 2
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

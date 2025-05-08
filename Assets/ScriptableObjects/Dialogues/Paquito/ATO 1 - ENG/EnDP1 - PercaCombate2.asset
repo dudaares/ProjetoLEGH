@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: EnDP1 - PercaCombate2
+  m_EditorClassIdentifier: 
+  text:
+  - "Hey Lel\xEA, don\u2019t be like that..."
+  - "I know it\u2019s hard to face this kind of person."
+  - "But you can try not to pay attention to them. If you learn to ignore them, they\u2019ll
+    stop, and you\u2019ll be at peace..."
+  - "Or you can block them, that way they\u2019ll never bother you again."
+  - "Thanks, guys, I\u2019ll give it another try!"
+  thisIs:
+  - Player
+  - Player
+  - Player
+  - Player
+  - NPC
+  imagePlayer:
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  - {fileID: 21300000, guid: 9a04a1af4576d934bb9641a1a01fd3d6, type: 3}
+  imageNPC:
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  textColor:
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 1
+  nextScene: StartWorld2.1 ENG
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

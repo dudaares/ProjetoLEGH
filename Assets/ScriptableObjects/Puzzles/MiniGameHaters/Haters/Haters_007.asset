@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760fda276683a48aa7eb98a452d442, type: 3}
+  m_Name: Haters_007
+  m_EditorClassIdentifier: 
+  nameObject: 
+  nickName: '@pauloOconsultor'
+  textComents: "Miser\xE1vel dando pitaco em economia \xE9 a coisa mais engra\xE7ada
+    que tem, nem concluiu o ensino m\xE9dio e acha que sabe opinar\U0001F923\U0001F923 "
+  imageAccount: {fileID: 1721036716, guid: 9e7d637ed213ccc40894669daa7ea8e9, type: 3}
+  isHater: 1

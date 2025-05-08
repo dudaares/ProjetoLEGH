@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: D3 - SaidaCidade1
+  m_EditorClassIdentifier: 
+  text:
+  - "Ningu\xE9m sai daqui . Hoje todos v\xE3o peida na farofa"
+  - "Quem voc\xEA pensa que \xE9 tio! t\xE1 me tirando po##a"
+  - "Se eu te visse na rua vc iria apanhar dimais da conta s\xF4"
+  - "Parece que t\xE1 havendo uma  briga, vamos ver se conseguimos passar"
+  - "N\xE3 n\xE3 n\xE3, vcs n\xE3o podem passar n\xE3o "
+  - "Estamos em greve, ningu\xE9m sai ningu\xE9m entra >:>"
+  - "Mas eu preciso muito ir at\xE9 aquela plataforma"
+  - "Ningu\xE9m sai ningu\xE9m entra >:<"
+  thisIs:
+  - Player
+  - NPC
+  - Player
+  - Player
+  - Player
+  - Player
+  - Player
+  - Player
+  imagePlayer:
+  - {fileID: 483690194, guid: 0b8ebbba7dcbeae4286ea2cf9552f062, type: 3}
+  - {fileID: 483690194, guid: 0b8ebbba7dcbeae4286ea2cf9552f062, type: 3}
+  - {fileID: 483690194, guid: 0b8ebbba7dcbeae4286ea2cf9552f062, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: 1333119749, guid: 82acf6a218a356041aa03f6c2836d561, type: 3}
+  - {fileID: -354285044, guid: c295a8e7eaf1a9e4d896869dd0d91036, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 1333119749, guid: 82acf6a218a356041aa03f6c2836d561, type: 3}
+  imageNPC:
+  - {fileID: -1823603206, guid: 3aa3dce41ba8892468a9127c4f070d25, type: 3}
+  - {fileID: -1823603206, guid: 3aa3dce41ba8892468a9127c4f070d25, type: 3}
+  - {fileID: -1823603206, guid: 3aa3dce41ba8892468a9127c4f070d25, type: 3}
+  - {fileID: 367952067, guid: 0775123ff5e7f224e8b9e20a4bcbc0bf, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: -354285044, guid: c295a8e7eaf1a9e4d896869dd0d91036, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  textColor:
+  - {r: 0.18039216, g: 0.1764706, b: 0.1764706, a: 1}
+  - {r: 0.7058824, g: 0.7019608, b: 0.7019608, a: 1}
+  - {r: 0.18039216, g: 0.1764706, b: 0.1764706, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.33333334, g: 0.33333334, b: 0.33333334, a: 1}
+  - {r: 0.20784314, g: 0.20784314, b: 0.20784314, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.33333334, g: 0.33333334, b: 0.33333334, a: 1}
+  haveCutscene: 1
+  cutScene:
+  - {fileID: 11400000, guid: 2eab18cd91af2a04188cf028ca8a413a, type: 2}
+  numberCutScene: 03000000
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760fda276683a48aa7eb98a452d442, type: 3}
+  m_Name: Normal_016
+  m_EditorClassIdentifier: 
+  nameObject: 
+  nickName: '@andr3soulzza'
+  textComents: "Hoje vi uma mo\xE7a muito bonita no \xF4nibus, queria muito poder
+    conversar com ela, mas acho que ela n\xE3o daria bola pra algu\xE9m como eu..."
+  imageAccount: {fileID: -627594344, guid: 90f33d6151a27c8459a9ed636d4b7e98, type: 3}
+  isHater: 0

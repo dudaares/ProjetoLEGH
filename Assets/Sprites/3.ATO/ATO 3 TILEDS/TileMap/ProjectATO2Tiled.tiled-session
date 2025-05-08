@@ -1,0 +1,187 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Castelo.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 639,
+                "y": 639
+            }
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/Castelo.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.33
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/CityProps.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/FloorBlue.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/FloorBlues.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/FloorRed.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/GardenSprite.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/GraveYardSprite.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/Metros.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/Military.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/Police.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 0.75
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/Terrrains.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/NPC.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/Npcs.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/Obstacules.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/Paredes.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/TilesPlacas.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/Tileset 32X32.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/TilesetMapa.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/TilesetPlacas.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/Trolls place holder.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tile/Walls.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tilemap/TileFinal.tmx": {
+            "expandedGroupLayers": [
+                40
+            ],
+            "scale": 4,
+            "selectedLayer": 21,
+            "viewCenter": {
+                "x": 1449.75,
+                "y": 640.375
+            }
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tilemap/TilesetCity.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/Beach.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/CabeçaNpcs.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/ChãoTiles.tsx": {
+            "scaleInDock": 2
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/CityProps.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/Metro.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/NPC 64.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/NPCSFianis.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/Npc1.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/NpcsInvertidos.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/PoliceStation.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/Ruas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/TerrainsFences.tsx": {
+            "scaleInDock": 1
+        },
+        "Igreja.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 559.3333333333333,
+                "y": 559.3333333333334
+            }
+        },
+        "MapaAto2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 256,
+                "y": -770
+            }
+        }
+    },
+    "last.imagePath": "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tilesets ART",
+    "map.fixedSize": true,
+    "map.height": 35,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 35,
+    "openFiles": [
+    ],
+    "project": "ProjectATO2Tiled.tiled-project",
+    "recentFiles": [
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/Tilemap/TileFinal.tmx",
+        "MapaAto2.tmx",
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/Castelo.tsx",
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/NPC 64.tsx",
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/NpcsInvertidos.tsx",
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/NPCSFianis.tsx",
+        "Igreja.tmx",
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/FloorRed.tsx",
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/FloorBlue.tsx",
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/TilesetPrototipo/Trolls/TileMas/Tileset/TilesetsAroc1 TSX/CityProps.tsx",
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/GardenSprite.tsx",
+        "D:/Projeto/Unity/DemoProjetoLEGH/Assets/Sprites/2.ATO/MapFolder/Tileset TSX/Police.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6df437a551f0cfe4f91402583cf9e2f6, type: 3}
+  m_Name: "Revolu\xE7\xE3o de StoneWall"
+  m_EditorClassIdentifier: 
+  question: Qual desses foi um dos eventos mais importantes da historia LGBTQIAPN+
+  answers:
+  - Primeiro movimento homosexual em Nova Orleans
+  - "Cirurgia de mudan\xE7a de Sexo da Georgia Criss"
+  - "Revolu\xE7\xE3o de StoneWall"
+  - Guerra dos canudos
+  answerIncorretDialogue:
+  - {fileID: 11400000, guid: 5236a2842e3819f44a287dc321d807db, type: 2}
+  - {fileID: 11400000, guid: 5236a2842e3819f44a287dc321d807db, type: 2}
+  - {fileID: 11400000, guid: b0889fbbf46a85f41aaa74b6fa46f2bd, type: 2}
+  - {fileID: 11400000, guid: 192d1a5d9e8d72c4088968868b8d49a7, type: 2}
+  correctAnswers: 2

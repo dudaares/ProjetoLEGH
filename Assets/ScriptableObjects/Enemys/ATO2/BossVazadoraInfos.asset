@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a298d11d60b654a96819fa6ba80193, type: 3}
+  m_Name: BossVazadoraInfos
+  m_EditorClassIdentifier: 
+  AttackScripts:
+  - {fileID: 11400000, guid: b4ecd5537be87374e88bb0b1f61c7892, type: 2}
+  - {fileID: 11400000, guid: de6612885aae1af409fbad8da1ddec79, type: 2}
+  - {fileID: 11400000, guid: 7396037c9f4847247848d49a5ebf05b4, type: 2}
+  superEffective:
+  - {fileID: 11400000, guid: ab231bfee6bfd8c488d7717d698b8390, type: 2}
+  noEffective:
+  - {fileID: 11400000, guid: 52e159a63c3c293478e9411ac411083a, type: 2}
+  - {fileID: 11400000, guid: 52e159a63c3c293478e9411ac411083a, type: 2}
+  - {fileID: 11400000, guid: 52e159a63c3c293478e9411ac411083a, type: 2}
+  invunerable:
+  - {fileID: 11400000, guid: 69bfc220fceb00d40990fdd2aa0451a3, type: 2}
+  spriteBattle: {fileID: -1573082031, guid: 58704aa615d3c1a44932259b306dff3c, type: 3}
+  actionBlockEnemy: {fileID: 0}
+  animationBattle: {fileID: 7400000, guid: 3c208fa02640ea64b8e2282c8f6271a3, type: 2}
+  haveDialogueNext: 1
+  nextDialogue: {fileID: 11400000, guid: de163f040e57c8f41bf9f15e49d51611, type: 2}
+  nextScene: WorldATO2 9
+  dialogueDerrota: {fileID: 11400000, guid: 5aa727c50a574aa4ca2b64fb3f3ae074, type: 2}
+  sceneDerrota: ComunidadePAQ

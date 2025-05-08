@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: D3 - LeleCobrandoMia
+  m_EditorClassIdentifier: 
+  text:
+  - "Mia, eu n\xE3o vou precisar da sua ajuda por agora. Pode ir fazer outras coisas"
+  - "Que nada, eu adoro te ajudar. Tem v\xE1rios coment\xE1rios muito divertidos
+    :D"
+  - "Eu n\xE3o quero sua ajuda, t\xE1 bom? S\xF3 sai daqui por enquanto\u2026"
+  - M-mas-
+  - "N\xE3o tem mas, depois n\xF3s conversa\u2026"
+  - Td bem :c
+  thisIs:
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  imagePlayer:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  - {fileID: -1618056177, guid: 459e470383d69bc4386187b5f0487dbc, type: 3}
+  textColor:
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0.36078432, a: 1}
+  haveCutscene: 1
+  cutScene:
+  - {fileID: 11400000, guid: fe9c5421faf19604b906422cc101224b, type: 2}
+  numberCutScene: 05000000
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

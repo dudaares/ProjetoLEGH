@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760fda276683a48aa7eb98a452d442, type: 3}
+  m_Name: Normal_006
+  m_EditorClassIdentifier: 
+  nameObject: 
+  nickName: '@lelefeh221'
+  textComents: "Estou muito orgulhosa de mim, hoje \xE9 meu primeiro m\xEAs na empresa
+    e j\xE1 consegui bater a meta!!\U0001F970\U0001F970"
+  imageAccount: {fileID: -553751081, guid: d7d14858abeb7a846acac81c39363e04, type: 3}
+  isHater: 0

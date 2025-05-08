@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: EnD1 - DialogoPosBoss
+  m_EditorClassIdentifier: 
+  text:
+  - What the hell?! How do you always have a comeback for everything?!
+  - "It\u2019s not hard, just have an open mind and listen to what others have to
+    say."
+  - "You talk so damn complicated. Bet it\u2019s just so I don\u2019t get it!"
+  - "Honestly, it seems like you don\u2019t want to understand. Like someone hurt
+    you, and now you take it out on others to feel better."
+  - "Try being more empathetic, no one\u2019s gonna hurt you for it."
+  - M-Mia, is that you? Hey!
+  - What are you doing here?
+  - "I was just passin by n saw u there\u2026"
+  - What u did was rlly dope
+  - Do you know him?
+  - "Yea, he\u2019s famous for not lettin ppl leave for another city."
+  - "He messes w the girls, but he lets the guys go cuz he\u2019s scared of them."
+  - "So basically, you\u2019re just a huge coward."
+  - The way u took him down was sick, fr badass.
+  - "Thank you so much, Mia. You\u2019re really kind."
+  thisIs:
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - Player
+  - Player
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - NPC
+  - Player
+  imagePlayer:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: 1829270674, guid: fb9b7159a801c6d4ab5267785d017263, type: 3}
+  - {fileID: 1829270674, guid: fb9b7159a801c6d4ab5267785d017263, type: 3}
+  - {fileID: 1829270674, guid: fb9b7159a801c6d4ab5267785d017263, type: 3}
+  - {fileID: 1829270674, guid: fb9b7159a801c6d4ab5267785d017263, type: 3}
+  - {fileID: 1829270674, guid: fb9b7159a801c6d4ab5267785d017263, type: 3}
+  - {fileID: -1401401551, guid: f4c74b9c11e1c9648975d08b08eefb5f, type: 3}
+  - {fileID: -1401401551, guid: f4c74b9c11e1c9648975d08b08eefb5f, type: 3}
+  - {fileID: -1401401551, guid: f4c74b9c11e1c9648975d08b08eefb5f, type: 3}
+  - {fileID: 21300000, guid: 7bd5382e07e7c18478a816b7c8411ea7, type: 3}
+  - {fileID: -1401401551, guid: f4c74b9c11e1c9648975d08b08eefb5f, type: 3}
+  - {fileID: -1401401551, guid: f4c74b9c11e1c9648975d08b08eefb5f, type: 3}
+  - {fileID: -1401401551, guid: f4c74b9c11e1c9648975d08b08eefb5f, type: 3}
+  - {fileID: -1401401551, guid: f4c74b9c11e1c9648975d08b08eefb5f, type: 3}
+  - {fileID: 21300000, guid: 7bd5382e07e7c18478a816b7c8411ea7, type: 3}
+  - {fileID: 21300000, guid: 7bd5382e07e7c18478a816b7c8411ea7, type: 3}
+  textColor:
+  - {r: 0.12941177, g: 0, b: 0.2901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.12941177, g: 0, b: 0.2901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 0, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  haveCutscene: 1
+  cutScene:
+  - {fileID: 11400000, guid: 4c2590110df3fa443a21cc775450bbc6, type: 2}
+  - {fileID: 11400000, guid: b4c8321884ec53c4ba8c654183ae805f, type: 2}
+  numberCutScene: 0400000005000000
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760fda276683a48aa7eb98a452d442, type: 3}
+  m_Name: Normal_000
+  m_EditorClassIdentifier: 
+  nameObject: 
+  nickName: '@CLTGamer'
+  textComents: "Nossa, hoje eu fui jogar um jogo com a arte muito fofinha e que aparentemente
+    ningu\xE9m estava falando sobre e esse jogo simplesmente fez meu dia \u2764\uFE0F"
+  imageAccount: {fileID: -61618077, guid: 246c068f4761cb140b18903bd4929d09, type: 3}
+  isHater: 0

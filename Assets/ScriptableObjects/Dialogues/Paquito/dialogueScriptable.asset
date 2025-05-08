@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: dialogueScriptable
+  m_EditorClassIdentifier: 
+  text:
+  - Onde estou?
+  - "Lel\xEA, bem vinde ao Metaverso"
+  thisIs:
+  - Player
+  - NPC
+  imagePlayer:
+  - {fileID: -2103187646, guid: 3b8dd1921e64ec941add8b85632bd7b8, type: 3}
+  - {fileID: -2103187646, guid: 3b8dd1921e64ec941add8b85632bd7b8, type: 3}
+  imageNPC:
+  - {fileID: -684423943, guid: 810c265ccf942b54cbc89de7167b6873, type: 3}
+  - {fileID: -684423943, guid: 810c265ccf942b54cbc89de7167b6873, type: 3}
+  textColor:
+  - {r: 0.48102593, g: 0.013990658, b: 0.4943396, a: 1}
+  - {r: 0.03684576, g: 0.73753345, b: 0.8490566, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

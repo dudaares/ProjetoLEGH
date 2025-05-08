@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41dd6b3c7d9a57d43a6adeb35713907f, type: 3}
+  m_Name: Ironize
+  m_EditorClassIdentifier: 
+  nameTitle: Ironize
+  useCombat: You use Ironize
+  combatDescr: You make an ironic comment with the intention of making the target
+    feel embarrassed.
+  fraseAction:
+  - Ain, cortou esse cabelo onde?
+  - "E protetor solar, tu n\xE3o usa?"
+  dmg: -1
+  costStm: -3
+  learned: 1
+  audioClip: {fileID: 0}
+  typeAction: Normal
+  buffPlayer: 0
+  modificadorBuffOrDebuff: 0
+  turnsForTimingAction: 0
+  turnsForTimingActionEnemy: 0

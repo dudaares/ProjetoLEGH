@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: D3 - HaterDerrotado
+  m_EditorClassIdentifier: 
+  text:
+  - "Voc\xEA me denunciou????"
+  - "Se a gente pudesse conversar com mais calma, eu n\xE3o teria feito isso"
+  - "Voc\xEA nunca vai mandar em mim !!!!"
+  - "Devido a alta quantidade de den\xFAncias em Turitter nos \xFAltimos dias, atualizamos
+    as regras de conviv\xEAncia no reino."
+  - "Levaremos a s\xE9rio casos criminais na internet. Pedimos que leiam as atualiza\xE7\xF5es
+    das diretrizes e regras da comunidade e respeitem uns aos outros."
+  - "Finalmente vai ter justi\xE7a por aqui."
+  thisIs:
+  - Player
+  - Player
+  - Player
+  - Player
+  - Player
+  - Player
+  imagePlayer:
+  - {fileID: 882610209, guid: 9d2a676236c379d4cbfe1d121991789a, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 882610209, guid: 9d2a676236c379d4cbfe1d121991789a, type: 3}
+  - {fileID: 21300000, guid: f068064ed5fbfca4d9472773755c35da, type: 3}
+  - {fileID: 21300000, guid: f068064ed5fbfca4d9472773755c35da, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 882610209, guid: 9d2a676236c379d4cbfe1d121991789a, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 0f0214fe4ae55b440a1ee82e072dc1f7, type: 3}
+  - {fileID: 21300000, guid: 0f0214fe4ae55b440a1ee82e072dc1f7, type: 3}
+  - {fileID: 21300000, guid: 0f0214fe4ae55b440a1ee82e072dc1f7, type: 3}
+  textColor:
+  - {r: 0.2901961, g: 0.41568628, b: 0, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.2901961, g: 0.41568628, b: 0, a: 1}
+  - {r: 1, g: 0.015686275, b: 0.30980393, a: 1}
+  - {r: 1, g: 0.015686275, b: 0.30980393, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  haveCutscene: 1
+  cutScene:
+  - {fileID: 11400000, guid: 010cc41acd621ff45909807620c66361, type: 2}
+  numberCutScene: 02000000
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

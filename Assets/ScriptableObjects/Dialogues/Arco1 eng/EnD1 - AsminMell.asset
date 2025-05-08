@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: EnD1 - AsminMell
+  m_EditorClassIdentifier: 
+  text:
+  - Lol, girl, look at these guys nowadays, this generation is lost.
+  - What do you mean? What's up with the guys in 2024?
+  - Didn't you see? They want to be pampered now, actually I don't even think they're
+    men lol.
+  - They're even trying to split the bill, there was one who tried to hit on me and
+    said 'You slayed the look' LMAOOOO.
+  - But what's the problem? After all, what does it mean to be a man?
+  - It's wrong, a guy's supposed to be strong and a gentleman, pay the bills and
+    do manly stuff, that's girl stuff.
+  - "Some are even trying to normalize guys wearing makeup, it's getting harder to
+    find a real man, if you\u2019re married, you're married lol."
+  - I don't see a problem with that....
+  - Why does this affect you so much? They seem so happy being themselves.
+  - Is it?
+  thisIs:
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - Player
+  - NPC
+  imagePlayer:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  - {fileID: -335479630, guid: d21503d6a2a5bc34db01397608fda75e, type: 3}
+  textColor:
+  - {r: 1, g: 0.34117648, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 1, g: 0.34117648, b: 1, a: 1}
+  - {r: 1, g: 0.34117648, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 1, g: 0.34117648, b: 1, a: 1}
+  - {r: 1, g: 0.34117648, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 1, g: 0.34117648, b: 1, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 1
+  attackScriptable: {fileID: 11400000, guid: 24daa21b336155548b955dc725471159, type: 2}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

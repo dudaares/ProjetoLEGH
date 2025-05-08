@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6df437a551f0cfe4f91402583cf9e2f6, type: 3}
+  m_Name: Tayna medeiros
+  m_EditorClassIdentifier: 
+  question: "Quem \xE9 Tayana Medeiros"
+  answers:
+  - Medalhista paralimpica de levantamento de peso
+  - Primeira presidenta da Australia
+  - "Influencier de nutri\xE7\xE3o"
+  - Inventora da lampada
+  answerIncorretDialogue:
+  - {fileID: 11400000, guid: a425e76eaaea6fb49bd598bde53c519b, type: 2}
+  - {fileID: 11400000, guid: 5236a2842e3819f44a287dc321d807db, type: 2}
+  - {fileID: 11400000, guid: 5236a2842e3819f44a287dc321d807db, type: 2}
+  - {fileID: 11400000, guid: 5236a2842e3819f44a287dc321d807db, type: 2}
+  correctAnswers: 0

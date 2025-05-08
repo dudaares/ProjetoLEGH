@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41dd6b3c7d9a57d43a6adeb35713907f, type: 3}
+  m_Name: Chamar Autoridades
+  m_EditorClassIdentifier: 
+  nameTitle: 
+  descr: 
+  combatDescr: "Voc\xEA liga para as autoridades, elas chegaram em 4 turnos podendo
+    finalar o combate dependendo do crime do oponente"
+  fraseAction: []
+  dmg: 0
+  costStm: -10
+  learned: 0
+  audioClip: {fileID: 0}
+  typeAction: 
+  buffPlayer: 0
+  modificadorBuffOrDebuff: 0
+  turnsForTimingAction: 0
+  turnsForTimingActionEnemy: 0

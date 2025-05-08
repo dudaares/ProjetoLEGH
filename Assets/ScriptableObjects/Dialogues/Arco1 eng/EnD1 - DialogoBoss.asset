@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: EnD1 - DialogoBoss
+  m_EditorClassIdentifier: 
+  text:
+  - Look who it is, another spoiled brat from the woke generation!
+  - "I don\u2019t identify as a woman"
+  - "Stop making up nonsense! Of course, you\u2019re a woman, and an ugly one at
+    that, hehehehe"
+  - "So much ignorance\u2026"
+  - So, what do you even call yourself? One of those confused people?
+  - Confusion is not knowing which beer to pick, hehe
+  - "The way I live doesn\u2019t change your life, and if you want, I can explai-"
+  - "Ain\u2019t nothin\u2019 I don\u2019t already know! You should just go clean
+    your house, fix that hair\u2026 y\u2019know, women stuff"
+  - "Why act like this? Especially knowing you\u2019re only here because of a woman?!"
+  - Think I'll have to teach another woman some good maners
+  thisIs:
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  imagePlayer:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: 1829270674, guid: fb9b7159a801c6d4ab5267785d017263, type: 3}
+  - {fileID: 1829270674, guid: fb9b7159a801c6d4ab5267785d017263, type: 3}
+  - {fileID: 19100923, guid: d6efdeecddc167a42b7cfa8fee43f176, type: 3}
+  - {fileID: 1829270674, guid: fb9b7159a801c6d4ab5267785d017263, type: 3}
+  - {fileID: 1829270674, guid: fb9b7159a801c6d4ab5267785d017263, type: 3}
+  - {fileID: 19100923, guid: d6efdeecddc167a42b7cfa8fee43f176, type: 3}
+  - {fileID: 21300000, guid: 59503109795da6b42a34a38fe041454c, type: 3}
+  - {fileID: 21300000, guid: 59503109795da6b42a34a38fe041454c, type: 3}
+  - {fileID: 21300000, guid: 59503109795da6b42a34a38fe041454c, type: 3}
+  - {fileID: 21300000, guid: 59503109795da6b42a34a38fe041454c, type: 3}
+  textColor:
+  - {r: 0.12941177, g: 0, b: 0.2901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.12941177, g: 0, b: 0.2901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.12941177, g: 0, b: 0.2901961, a: 1}
+  - {r: 0.12941177, g: 0, b: 0.2901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.12941177, g: 0, b: 0.2901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.12941177, g: 0, b: 0.2901961, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: Battle
+  isBattle: 1
+  enemy: {fileID: 11400000, guid: d74b5bbfb19042648924d23d2b781b5e, type: 2}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

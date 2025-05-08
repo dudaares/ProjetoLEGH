@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: EnD1 - JuujClena
+  m_EditorClassIdentifier: 
+  text:
+  - Hi miss, I think your clothes are cool.
+  - Thanks, queen!!
+  - How is your skin so soft like this?
+  - It's because I'm a Clean Girl, so I use a lot of products to keep it like this
+    :)
+  - Cool, how can I be like that too?
+  - To be as pretty as me, first you need to straighten your hair, change your avatar's
+    skin to a beautiful one.
+  - What's wrong with my skin color?
+  - Clean Girls got light skin like mine, sis, that's the only way you can be a diva
+    like me.
+  - That's not true, my beauty is unique, and there's no such thing as beautiful
+    skin or ugly skin, all colors are beautiful.
+  - Sorry activist, I'ma block you, alright babe!!!
+  - Is it possible to do that?
+  thisIs:
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  imagePlayer:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  - {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  textColor:
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.9843137, g: 1, b: 0.74509805, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.9843137, g: 1, b: 0.74509805, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.9843137, g: 1, b: 0.74509805, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.9843137, g: 1, b: 0.74509805, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.9843137, g: 1, b: 0.74509805, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 0
+  nextScene: 
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

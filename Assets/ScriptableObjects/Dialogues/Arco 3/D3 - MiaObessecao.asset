@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: D3 - MiaObessecao
+  m_EditorClassIdentifier: 
+  text:
+  - "Parab\xE9ns, voc\xEA salvou o dia de novo n\xE9 e sem mim para te AtRaPaLhAr"
+  - "Mia? Do que vc est\xE1 falando?"
+  - "Agora que fugiu de mim parece at\xE9 mais feliz, eu vi voc\xEA sorrindo para
+    aquele falso asqueroso"
+  - "Pro hater da Leona? Eu n\xE3o sorri para ele"
+  - "Eu tenho te observado, por que voc\xEA n\xE3o me ama como eu te amo???"
+  - "Isso \xE9 obsess\xE3o, voc\xEA precisa parar com isso\r"
+  - "OBSESS\xC2O? Vou lhe mostrar o que \xE9 obsess\xE3o ent\xE3o\r"
+  thisIs:
+  - Player
+  - Player
+  - NPC
+  - Player
+  - NPC
+  - Player
+  - NPC
+  imagePlayer:
+  - {fileID: 21300000, guid: 022485ce200388549bf766014b2e2543, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  imageNPC:
+  - {fileID: 21300000, guid: 20ee70320fd636240a8edeb4e0eff07f, type: 3}
+  - {fileID: 21300000, guid: adf5778d7c68481478f6c392929a61eb, type: 3}
+  - {fileID: 21300000, guid: adf5778d7c68481478f6c392929a61eb, type: 3}
+  - {fileID: 21300000, guid: adf5778d7c68481478f6c392929a61eb, type: 3}
+  - {fileID: 21300000, guid: adf5778d7c68481478f6c392929a61eb, type: 3}
+  - {fileID: 21300000, guid: adf5778d7c68481478f6c392929a61eb, type: 3}
+  - {fileID: 21300000, guid: adf5778d7c68481478f6c392929a61eb, type: 3}
+  textColor:
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.4117647, g: 0.32156864, b: 1, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 1
+  nextScene: RunMiaRun
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0

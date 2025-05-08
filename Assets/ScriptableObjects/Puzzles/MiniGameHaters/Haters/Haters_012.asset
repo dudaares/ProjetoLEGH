@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0760fda276683a48aa7eb98a452d442, type: 3}
+  m_Name: Haters_012
+  m_EditorClassIdentifier: 
+  nameObject: 
+  nickName: '@maria88022'
+  textComents: "Essa atriz tem uma testa que parece um aeroporto de mosca, n\xE3o
+    tinha nigu\xE9m mais normal pra colocar? \U0001F923\U0001F923"
+  imageAccount: {fileID: 1905158419, guid: 6671a4e912e083f4385efa97fc96740a, type: 3}
+  isHater: 1
