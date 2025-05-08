@@ -137,7 +137,7 @@ public class HaterMiniGame : MonoBehaviour
         else if (corrects < 3 )
         {
             PassInfos.Instance.DialogueScriptable = dialogueLose;
-            SceneManager.LoadScene("ComunidadePAQ");
+            TransitionSceneManager.Instance.Transition("ComunidadePAQ");
         }
        
 

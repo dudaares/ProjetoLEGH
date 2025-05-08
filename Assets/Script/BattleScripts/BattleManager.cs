@@ -385,7 +385,7 @@ public class BattleManager : MonoBehaviour
                 PassInfos.Instance.startDialogue =true;
             }
             
-            SceneManager.LoadScene(enemyAtributes.nextScene);
+            TransitionSceneManager.Instance.Transition(enemyAtributes.nextScene);
 
             }
             else
@@ -478,7 +478,7 @@ public class BattleManager : MonoBehaviour
             HudBattleManager.Instance.loseScreen.SetActive(true);
             yield return new WaitForSeconds(1f);
             PassInfos.Instance.DialogueScriptable = enemyAtributes.dialogueDerrota;
-            SceneManager.LoadScene(enemyAtributes.sceneDerrota);
+            TransitionSceneManager.Instance.Transition(enemyAtributes.sceneDerrota);
         }
         else
         {

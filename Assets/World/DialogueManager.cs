@@ -218,13 +218,13 @@ public class DialogueManager : MonoBehaviour
                     numberListCutscene = 0;
                     PassInfos.Instance.enemyToPass = enemysScriptable;
 
-                    SceneManager.LoadScene(battleScene);
+                    TransitionSceneManager.Instance.Transition(battleScene);
                 }
                 else if(isNextScene)
                 {
                     numberListCutscene = 0;
                     isDialogue = false;
-                    SceneManager.LoadScene(nextScene);
+                    TransitionSceneManager.Instance.Transition(nextScene);
                 }
                 else
                 {

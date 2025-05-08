@@ -14,7 +14,7 @@ public class NextScene : MonoBehaviour
     {
         if (isStart)
         {
-            LoadScene(sceneName);
+            TransitionSceneManager.Instance.Transition(sceneName);
             PassInfos.Instance.enemyToPass = enemy;
         }
     }
@@ -27,14 +27,14 @@ public class NextScene : MonoBehaviour
 
     public void LoadScene(string scene)
     {
-        SceneManager.LoadScene(scene);
+        TransitionSceneManager.Instance.Transition(scene);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player")
         {
-            LoadScene(sceneName);
+            TransitionSceneManager.Instance.Transition(sceneName);
         }
     }
 }
