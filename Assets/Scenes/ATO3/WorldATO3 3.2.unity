@@ -10450,7 +10450,7 @@ MonoBehaviour:
   incorrects: 0
   parentGameObject: {fileID: 1164807639}
   isLastMinigame: 0
-  dialogueLose: {fileID: 11400000, guid: b2e6b7014145fad4d9beaa09f83195e8, type: 2}
+  dialogueLose: {fileID: 11400000, guid: 83c424e5e787c5b4081d6643e2514629, type: 2}
   respawnPlayer: {fileID: 1055819729}
   numberOfCommentsShow: 0
   nickNameText: {fileID: 97887475}

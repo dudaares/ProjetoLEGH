@@ -1399,7 +1399,7 @@ MonoBehaviour:
   incorrects: 0
   parentGameObject: {fileID: 24068073}
   isLastMinigame: 0
-  dialogueLose: {fileID: 11400000, guid: b2e6b7014145fad4d9beaa09f83195e8, type: 2}
+  dialogueLose: {fileID: 11400000, guid: 077f33f9feac863449c9cf9dc8c6b028, type: 2}
   respawnPlayer: {fileID: 1903497826}
   numberOfCommentsShow: 0
   nickNameText: {fileID: 60543102}
@@ -2082,7 +2082,7 @@ MonoBehaviour:
   incorrects: 0
   parentGameObject: {fileID: 1303295905}
   isLastMinigame: 0
-  dialogueLose: {fileID: 11400000, guid: b2e6b7014145fad4d9beaa09f83195e8, type: 2}
+  dialogueLose: {fileID: 11400000, guid: 077f33f9feac863449c9cf9dc8c6b028, type: 2}
   respawnPlayer: {fileID: 265103189}
   numberOfCommentsShow: 0
   nickNameText: {fileID: 1272134401}
@@ -10786,7 +10786,7 @@ MonoBehaviour:
   incorrects: 0
   parentGameObject: {fileID: 1664933855}
   isLastMinigame: 0
-  dialogueLose: {fileID: 11400000, guid: b2e6b7014145fad4d9beaa09f83195e8, type: 2}
+  dialogueLose: {fileID: 11400000, guid: 077f33f9feac863449c9cf9dc8c6b028, type: 2}
   respawnPlayer: {fileID: 281471875}
   numberOfCommentsShow: 0
   nickNameText: {fileID: 569399996}
@@ -19550,7 +19550,7 @@ MonoBehaviour:
   incorrects: 0
   parentGameObject: {fileID: 855207113}
   isLastMinigame: 0
-  dialogueLose: {fileID: 11400000, guid: b2e6b7014145fad4d9beaa09f83195e8, type: 2}
+  dialogueLose: {fileID: 11400000, guid: 077f33f9feac863449c9cf9dc8c6b028, type: 2}
   respawnPlayer: {fileID: 1902111687}
   numberOfCommentsShow: 0
   nickNameText: {fileID: 669930638}

@@ -30,7 +30,7 @@ MonoBehaviour:
   actionBlockEnemy: {fileID: 0}
   animationBattle: {fileID: 7400000, guid: 4f6f8be364c300342ae5b40ebf49d3ea, type: 2}
   haveDialogueNext: 0
-  nextDialogue: {fileID: 0}
+  nextDialogue: {fileID: 11400000, guid: 295e9a75125e88345b0ea517e4e04160, type: 2}
   nextScene: WorldATO3 5
   dialogueDerrota: {fileID: 0}
   sceneDerrota: 
