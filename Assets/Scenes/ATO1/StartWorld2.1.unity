@@ -2197,7 +2197,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4646515050673624821, guid: d1b852bc28543b9449282f1c916fe25f, type: 3}
       propertyPath: baseSpeed
-      value: 6
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6332719587364331249, guid: d1b852bc28543b9449282f1c916fe25f, type: 3}
       propertyPath: soundWalk

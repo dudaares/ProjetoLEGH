@@ -37,7 +37,8 @@ public class PlayerMov : MonoBehaviour
         }
     }
 
-
+    int lastHorizontal = 0;
+    int lastVertical = -1; // Olhando para baixo por padrão
     void Mov()
     {
         float horizontal = Input.GetAxisRaw("Horizontal");
@@ -62,6 +63,18 @@ public class PlayerMov : MonoBehaviour
         if (horizontal > 0 || horizontal < 0 || vertical > 0 || vertical < 0)
         {
           soundWalk.GetComponent<AudioSource>().volume = 0.8f;
+
+            if (vertical != 0)
+            {
+            lastVertical = (int)vertical;
+            lastHorizontal = 0;
+            }
+            else if (horizontal != 0)
+            {
+            lastHorizontal = (int)horizontal;
+            lastVertical = 0;
+            }
+
             if (vertical > 0)
             {
                 animatior.Play("WalkCima");
@@ -89,8 +102,26 @@ public class PlayerMov : MonoBehaviour
         else
         {
             soundWalk.GetComponent<AudioSource>().volume = 0;
-            animatior.Play("Idle");
+             if (lastVertical > 0)
+        {
+            animatior.Play("IdleCima");
             gameObject.GetComponent<SpriteRenderer>().flipX = false;
+        }
+        else if (lastVertical < 0)
+        {
+            animatior.Play("IdleBaixo");
+            gameObject.GetComponent<SpriteRenderer>().flipX = false;
+        }
+        else if (lastHorizontal > 0)
+        {
+            animatior.Play("IdleLado");
+            gameObject.GetComponent<SpriteRenderer>().flipX = false;
+        }
+        else if (lastHorizontal < 0)
+        {
+            animatior.Play("IdleLado");
+            gameObject.GetComponent<SpriteRenderer>().flipX = true;
+        }
         }
 
     }
