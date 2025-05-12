@@ -3141,7 +3141,7 @@
 </chunk>
    </data>
   </layer>
-  <layer id="9" name="Doors2" width="30" height="20" visible="0">
+  <layer id="9" name="Doors2" width="30" height="20">
    <data encoding="csv">
     <chunk x="0" y="0" width="16" height="16">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
