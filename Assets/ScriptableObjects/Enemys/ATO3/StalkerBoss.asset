@@ -25,6 +25,7 @@ MonoBehaviour:
   invunerable:
   - {fileID: 11400000, guid: 69bfc220fceb00d40990fdd2aa0451a3, type: 2}
   - {fileID: 11400000, guid: 8b252e048c1495446b0f5084650deb18, type: 2}
+  musicBattle: {fileID: 8300000, guid: 5ea228859eb7adc47ad5d294eb2195d7, type: 3}
   spriteBattle: {fileID: 21300000, guid: 022485ce200388549bf766014b2e2543, type: 3}
   actionBlockEnemy: {fileID: 0}
   animationBattle: {fileID: 7400000, guid: 822bdbec633dc264b9fa3f6de5f68129, type: 2}
