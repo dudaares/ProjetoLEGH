@@ -28,7 +28,7 @@ public class PlayerMov : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (DialogueManager.Instance.isDialogue || DialogueManager.Instance.isPuzzle ) { animatior.Play("Idle");
+        if (DialogueManager.Instance.isDialogue || DialogueManager.Instance.isPuzzle ) { animatior.Play("IdleBaixo");
             soundWalk.GetComponent<AudioSource>().Stop();
         }
         else { 
