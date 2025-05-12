@@ -150,6 +150,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7757506246022329754, guid: bce2dc1ad94c3d54ba65311c5e24e924, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -168,6 +172,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 282836967123274721, guid: 49be25d49b616654e8978baa6f504e9e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 4725253054886409062, guid: 49be25d49b616654e8978baa6f504e9e, type: 3}
       propertyPath: m_Name
       value: CavaloATO3
@@ -230,6 +238,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 1241902609951168200, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 1326780828827090131, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
       propertyPath: m_Name
       value: Pexe2ATO3 (1)
@@ -292,6 +304,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 2970558062075841868, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 3896055748717607717, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.1900005
@@ -398,6 +414,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8680784172140914255, guid: a5f4f009a93fa42439cf11e633cd2065, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -416,6 +436,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 2970558062075841868, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 3896055748717607717, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -27.52
@@ -522,6 +546,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LucasMartinsATO3
       objectReference: {fileID: 0}
+    - target: {fileID: 4323314511283601535, guid: 6bd9e3a8d0f6fda4186bcb4a81c48137, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -540,6 +568,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 4846593864902857985, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 5242931844527465564, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
       propertyPath: m_Name
       value: NPCGirlATO3 (1)
@@ -602,6 +634,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 4846593864902857985, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 5242931844527465564, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
       propertyPath: m_Name
       value: NPCGirlATO3 (2)
@@ -664,6 +700,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 4846593864902857985, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 5242931844527465564, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
       propertyPath: m_Name
       value: NPCGirlATO3 (3)
@@ -770,6 +810,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7757506246022329754, guid: bce2dc1ad94c3d54ba65311c5e24e924, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -788,6 +832,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 4846593864902857985, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 5242931844527465564, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
       propertyPath: m_Name
       value: NPCGirlATO3 (5)
@@ -850,6 +898,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 1241902609951168200, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 1326780828827090131, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
       propertyPath: m_Name
       value: Pexe2ATO3 (5)
@@ -912,6 +964,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 2970558062075841868, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 3896055748717607717, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 17.53
@@ -974,6 +1030,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 4846593864902857985, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 5242931844527465564, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
       propertyPath: m_Name
       value: NPCGirlATO3 (4)
@@ -1080,6 +1140,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8680784172140914255, guid: a5f4f009a93fa42439cf11e633cd2065, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1098,6 +1162,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 2970558062075841868, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 3896055748717607717, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 18.499832
@@ -1160,6 +1228,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 1241902609951168200, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 1326780828827090131, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
       propertyPath: m_Name
       value: Pexe2ATO3 (2)
@@ -1222,6 +1294,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 1241902609951168200, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 1326780828827090131, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
       propertyPath: m_Name
       value: Pexe2ATO3 (3)
@@ -1284,6 +1360,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 1241902609951168200, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 1326780828827090131, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
       propertyPath: m_Name
       value: Pexe2ATO3 (6)
@@ -1350,6 +1430,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: DaniloMotorATO3
       objectReference: {fileID: 0}
+    - target: {fileID: 3377769183001359606, guid: 377ffc3f38df36e44a32af85f05cccb8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 8960141213548858459, guid: 377ffc3f38df36e44a32af85f05cccb8, type: 3}
       propertyPath: m_LocalPosition.x
       value: 32.26
@@ -1408,6 +1492,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 2970558062075841868, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 3896055748717607717, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.18
@@ -1514,6 +1602,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PeaoVermelhoATO3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7951533013148938399, guid: 07b443fc1b609ef49b19487a32e71763, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1532,6 +1624,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 4846593864902857985, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 5242931844527465564, guid: 721facc2fa81bcc4aabc045f4a399d43, type: 3}
       propertyPath: m_Name
       value: NPCGirlATO3
@@ -1594,6 +1690,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 2970558062075841868, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 3896055748717607717, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 54.74
@@ -1656,6 +1756,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 2970558062075841868, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 3896055748717607717, guid: 7de3639dd255bb64294ed68ca8a41bd6, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.4
@@ -1718,6 +1822,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 1241902609951168200, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 1326780828827090131, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
       propertyPath: m_Name
       value: Pexe2ATO3 (4)
@@ -1780,6 +1888,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3651037350048543174}
     m_Modifications:
+    - target: {fileID: 1241902609951168200, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 1326780828827090131, guid: 2f70d83af98d710448c525785b38e2cc, type: 3}
       propertyPath: m_Name
       value: Pexe2ATO3
@@ -1846,6 +1958,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ReiATO3
       objectReference: {fileID: 0}
+    - target: {fileID: 6789963245084071204, guid: 23febe5cfa798d1439436821d400c539, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 8393664680061908790, guid: 23febe5cfa798d1439436821d400c539, type: 3}
       propertyPath: m_LocalPosition.x
       value: -38.311707
@@ -1948,6 +2064,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PeaoVermelhoATO3
       objectReference: {fileID: 0}
+    - target: {fileID: 7951533013148938399, guid: 07b443fc1b609ef49b19487a32e71763, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1970,6 +2090,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: CarlaATO3
       objectReference: {fileID: 0}
+    - target: {fileID: 4348011630174289496, guid: 3a365101f602bc84b82c334343bbd4d8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     - target: {fileID: 6877650920533796164, guid: 3a365101f602bc84b82c334343bbd4d8, type: 3}
       propertyPath: m_LocalPosition.x
       value: 19.383398
@@ -2072,6 +2196,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7757506246022329754, guid: bce2dc1ad94c3d54ba65311c5e24e924, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2134,6 +2262,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7757506246022329754, guid: bce2dc1ad94c3d54ba65311c5e24e924, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2196,6 +2328,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8680784172140914255, guid: a5f4f009a93fa42439cf11e633cd2065, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2258,6 +2394,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6288774895205257584, guid: b650f37a1a18dd34a9cabae4b4737b1a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
