@@ -560,8 +560,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: -33.6, y: 74.6}
-  m_SizeDelta: {x: -20, y: 0}
+  m_AnchoredPosition: {x: -64.250015, y: 74.55}
+  m_SizeDelta: {x: -77.29999, y: 8.099979}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &220143554
 GameObject:
@@ -1753,11 +1753,11 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: 29a113f7accc3c94fb3fcc1e3810cd19, type: 3}
+    m_FontSize: 34
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 4
+    m_MinSize: 3
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
@@ -2203,8 +2203,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
-  m_AnchoredPosition: {x: -33.6, y: 78.3}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -61.799988, y: 78.15}
+  m_SizeDelta: {x: -56.400024, y: 0.30000305}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &740045810
 MonoBehaviour:
@@ -6083,8 +6083,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 1.0791931, y: 3.3999996}
-  m_SizeDelta: {x: 3.5391, y: 0}
+  m_AnchoredPosition: {x: 2.5200212, y: 3.824998}
+  m_SizeDelta: {x: 10.500042, y: -0.8500047}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2052701967
 MonoBehaviour:
@@ -6306,7 +6306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6379,6 +6379,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 637803508833501758, guid: a15329cde5f77104885dd083b78c06f5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6730889103928291794, guid: a15329cde5f77104885dd083b78c06f5, type: 3}
+      propertyPath: m_Intensity
+      value: 0.25
+      objectReference: {fileID: 0}
     - target: {fileID: 8013982783550042159, guid: a15329cde5f77104885dd083b78c06f5, type: 3}
       propertyPath: m_Name
       value: MapATO1
@@ -6422,6 +6430,10 @@ PrefabInstance:
     - target: {fileID: 8567744244289557426, guid: a15329cde5f77104885dd083b78c06f5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9169316003551478022, guid: a15329cde5f77104885dd083b78c06f5, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6526,7 +6538,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &7989300746020915626
 MonoBehaviour:
   m_ObjectHideFlags: 0
