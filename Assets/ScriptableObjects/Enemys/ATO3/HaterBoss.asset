@@ -25,11 +25,12 @@ MonoBehaviour:
   - {fileID: 11400000, guid: bcda3e4064821314790405de8258170b, type: 2}
   invunerable:
   - {fileID: 11400000, guid: 52e159a63c3c293478e9411ac411083a, type: 2}
+  musicBattle: {fileID: 8300000, guid: 1fd0ba7e71181774ca903043ac50dd54, type: 3}
   spriteBattle: {fileID: 353782142, guid: 7515c04361099944086b3a754cb032ae, type: 3}
   actionBlockEnemy: {fileID: 0}
   animationBattle: {fileID: 7400000, guid: 4f6f8be364c300342ae5b40ebf49d3ea, type: 2}
   haveDialogueNext: 0
-  nextDialogue: {fileID: 0}
+  nextDialogue: {fileID: 11400000, guid: 295e9a75125e88345b0ea517e4e04160, type: 2}
   nextScene: WorldATO3 5
   dialogueDerrota: {fileID: 0}
   sceneDerrota: 

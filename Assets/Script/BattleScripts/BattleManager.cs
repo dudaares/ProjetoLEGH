@@ -23,6 +23,7 @@ public class BattleManager : MonoBehaviour
     public float stamina;
     public float staminaMax;
     public AudioSource audioSource;
+    public AudioSource soundTrack;
 
     //Types Attacks Player
     float modificadorPlayer;
@@ -79,7 +80,7 @@ public class BattleManager : MonoBehaviour
         HudBattleManager.Instance.imageEnemy.GetComponent<Animator>().Play(enemyAtributes.animationBattle.name);   
        
         enemyAction = new List<AttackScriptable>(enemyAtributes.AttackScripts);
-       
+        soundTrack.clip = enemyAtributes.musicBattle;
         stamina = staminaMax;
         if (!isTutorial)
         {
