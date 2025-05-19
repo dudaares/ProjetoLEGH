@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.10" tiledversion="1.11.0" name="Metros" tilewidth="32" tileheight="32" tilecount="5920" columns="32">
+<tileset version="1.10" tiledversion="1.11.2" name="Metros" tilewidth="32" tileheight="32" tilecount="5920" columns="32">
  <image source="../Tilesets ART/20_Subway_and_Train_Station_32x32.png" width="1024" height="5920"/>
  <tile id="35">
   <objectgroup draworder="index" id="2">
@@ -54,11 +54,53 @@
  <tile id="131">
   <objectgroup draworder="index" id="2">
    <object id="1" x="0" y="0" width="20" height="32"/>
+   <object id="2" x="0" y="0" width="32" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="132">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="32" height="32"/>
   </objectgroup>
  </tile>
  <tile id="133">
   <objectgroup draworder="index" id="2">
    <object id="1" x="11.7273" y="0" width="20.2727" height="32"/>
+   <object id="2" x="0" y="0" width="32" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="134">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="32" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="162">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="32" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="166">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="32" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="198">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="32" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="227">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="32" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="228">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="32" height="32"/>
+  </objectgroup>
+ </tile>
+ <tile id="229">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="32" height="32"/>
   </objectgroup>
  </tile>
  <tile id="612">
