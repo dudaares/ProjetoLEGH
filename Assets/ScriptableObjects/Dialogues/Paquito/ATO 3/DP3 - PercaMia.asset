@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c72838054fec1684a904ccabd9dae52c, type: 3}
+  m_Name: DP3 - PercaMia
+  m_EditorClassIdentifier: 
+  text:
+  - Meu deus, nunca pensei que a Mia agiria assim
+  - Isso pode acontecer, temos que tomar cuidado com as pessoas na internet
+  - Isso me deixou com muito medo, ela veio correndo atras de mim!!!
+  - "To com medo de falar com ela agora, mas como fa\xE7o ela parar?"
+  - "Pode tentar chamar as autoridades, eles saber\xE3o o que fazer"
+  thisIs:
+  - Player
+  - Player
+  - NPC
+  - NPC
+  - Player
+  imagePlayer:
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  imageNPC:
+  - {fileID: 0}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  - {fileID: 21300000, guid: b7cf44744379c104d8300c0b6fa4d071, type: 3}
+  textColor:
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.34509805, g: 0.007843138, b: 0.2627451, a: 1}
+  - {r: 0.29411766, g: 0.74509805, b: 0.8901961, a: 1}
+  haveCutscene: 0
+  cutScene: []
+  numberCutScene: 
+  battleScene: 
+  isBattle: 0
+  enemy: {fileID: 0}
+  isNextScene: 1
+  nextScene: WorldATO3 5.1
+  learnAction: 0
+  attackScriptable: {fileID: 0}
+  havePuzzle: 0
+  puzzleDialogueScriptable: {fileID: 0}
+  numberActivePuzzle: 0
