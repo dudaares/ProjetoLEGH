@@ -4334,7 +4334,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!1001 &697792106
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5895,7 +5895,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!1 &937930231
 GameObject:
   m_ObjectHideFlags: 0
@@ -8226,6 +8226,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -1682006492, guid: bf06997b6a526f64da99e91c1841d075, type: 3}
+    - target: {fileID: 2302115343794493986, guid: c0c52ecc89ca0e641b1b490173693309, type: 3}
+      propertyPath: m_SpriteSortPoint
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3233003117778490868, guid: c0c52ecc89ca0e641b1b490173693309, type: 3}
       propertyPath: m_Controller
       value: 
@@ -10420,6 +10424,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MapLightATO2
       objectReference: {fileID: 0}
+    - target: {fileID: 5905591184610170872, guid: 93623d435994e544592ac1040dcf0584, type: 3}
+      propertyPath: m_SpriteSortPoint
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6583885268578816256, guid: 93623d435994e544592ac1040dcf0584, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13.2202425
@@ -12434,7 +12442,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!1001 &1992383862
 PrefabInstance:
   m_ObjectHideFlags: 0
